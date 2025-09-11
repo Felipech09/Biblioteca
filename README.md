@@ -42,6 +42,7 @@ Criar um sistema simples e funcional que permita:
 
 ## 🐍 Como fazer em Python
 
+🗂️ Classes sugeridas
 
 Usar classes: Livro, Usuario, Biblioteca
 
