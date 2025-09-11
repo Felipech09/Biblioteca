@@ -1,4 +1,4 @@
-🧠 ## Sistema de Controle de Biblioteca ##
+## Sistema de Controle de Biblioteca
 
 
 🎯 Objetivo
@@ -29,7 +29,7 @@ Criar um sistema simples e funcional que permita:
 -Devolver livro.
 
 
-🧑‍💻 Como fazer em Java (com POO)
+## 🧑‍💻 Como fazer em Java (com POO)
 
 🗂️ Classes sugeridas
 
@@ -42,10 +42,8 @@ Criar um sistema simples e funcional que permita:
 -Main (para testar);
 
 
-🐍 Como fazer em Python
+# 🐍 Como fazer em Python
 
-
-🗂️ Estrutura sugerida
 
 Usar classes: Livro, Usuario, Biblioteca
 
