@@ -1,6 +1,4 @@
-## Sistema de Controle de Biblioteca
-
-
+# Sistema de controle de biblioteca
 🎯 Objetivo
 
 Criar um sistema simples e funcional que permita:
@@ -42,7 +40,7 @@ Criar um sistema simples e funcional que permita:
 -Main (para testar);
 
 
-# 🐍 Como fazer em Python
+## 🐍 Como fazer em Python
 
 
 Usar classes: Livro, Usuario, Biblioteca
